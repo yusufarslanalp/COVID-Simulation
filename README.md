@@ -8,8 +8,9 @@
 - Strategy, observer singleton and mediator design paterns are used in this project.
 - This projet is the final project for Object Oriented Analysis and Design course.
 
- ❮img src="COVID-Simulation/Resources/introduceGui.PNG" ❯
-
+<p>
+    <img src="COVID-Simulation/Resources/introduceGui.PNG" width="220" height="240" />
+</p>
 
 
 
