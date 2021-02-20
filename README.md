@@ -8,6 +8,8 @@
 - Strategy, observer singleton and mediator design paterns are used in this project.
 - This projet is the final project for Object Oriented Analysis and Design course.
 
+❮img src="Resources/introduce_gui.PNG" ❯
+
 
 
 
