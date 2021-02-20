@@ -9,7 +9,7 @@
 - This projet is the final project for Object Oriented Analysis and Design course.
 
 <p>
-    <img src="COVID-Simulation/Resources/introduceGui.PNG" width="220" height="240" />
+    <img src="COVID-Simulation/Resources/introduceGui.PNG" />
 </p>
 
 
