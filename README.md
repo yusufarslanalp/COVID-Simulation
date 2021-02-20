@@ -12,6 +12,7 @@
     <img src="COVID-Simulation/Resources/introduceGui.PNG" />
 </p>
 
+<img src="COVID-Simulation/Resources/introduceGui.PNG" >
 
 
 
