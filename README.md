@@ -1,6 +1,6 @@
 # COVID-Simulation
 
-- Click [here](simulation/src/com/company/) to view classes in project.
+- Click [here](simulation/src/com/company/) to view classes in project (codes in the project).
 - Epidemic(Covid-19) simulation program.
 - Demo for the project:  https://youtu.be/EFfioQIlBMI
 - There is a jar file in project. You can download and run jar file directly.
